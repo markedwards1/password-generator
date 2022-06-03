@@ -10,11 +10,12 @@ To install, download VS code and download file.
 
 ## Usage
 
-```[alt text](./Assets/images/page1.png)```
-
-```[alt text](./Assets/images/password-length.png)```
-
-```[alt text](./Assets/images/password-length.png)```
+Click on the "generate password" button.
+![alt text](./assets/images/page1.png)
+Enter number value into confirm box.
+![alt text](./assets/images/password-length.png)
+Answer prompts - note you must select at least one of the criteria.
+![alt text](./Assets/images/password-length.png)
 
 ## Credits
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand.
