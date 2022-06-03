@@ -34,10 +34,10 @@ var x = passwordLength;
  var UserImput = (lengthVerifyMin && lengthVerifyMax); 
  if (!UserImput){
    alert("you have not selected a number between 8 and 128")
- 
+ return generatePassword ();
+
   
-  console.log(lengthVerifyMax);
-  console.log(lengthVerifyMin);
+
 
  }else if (lengthVerifyMin && lengthVerifyMax){
     console.log ("pass");
